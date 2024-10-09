@@ -90,4 +90,21 @@ Ans was:
 Ans was:
 
 ```bash
+    taha@taha-Latitude-7490:/mnt/26B400DDB400B17B/ITU/Semester 07/Numerical Computing/Numerical Computing - MT433/Assignments/Assi 2/Numerical Linear Algebra Problems$ python3 gauss_seidel.py 
+    Iteration 1: [0.5        4.9        3.09230769]
+    Iteration 2: [0.14679487 3.71525641 3.81175542]
+    Iteration 3: [0.74275066 3.16439661 3.97084398]
+    Iteration 4: [0.9467525  3.02814311 3.9971339 ]
+    Iteration 5: [0.99177001 3.00336566 4.00008695]
+    Iteration 6: [0.99919482 3.00010887 4.00012719]
+    Iteration 7: [1.00002578 2.99991853 4.00003792]
+    Iteration 8: [1.00003617 2.99997001 4.0000078 ]
+    Iteration 9: [1.00001075 2.99999317 4.0000012 ]
+    Iteration 10: [1.00000221 2.99999884 4.00000012]
+    Iteration 11: [1.00000034 2.99999986 4.        ]
+    Iteration 12: [1.00000003 3.         4.        ]
+    Converged in 12 iterations.
+
+    Approximate solution after Gauss-Seidel iterations:
+    [1.00000003 3.         4.       ]
 ```
